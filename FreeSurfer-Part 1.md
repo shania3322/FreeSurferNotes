@@ -29,6 +29,8 @@ Tags: "freesurfer"
 
 ### Directories
 
+
+```
 subjects/../
 	- label
 	- mri
@@ -69,6 +71,8 @@ tktools/
 mni/
 mni-1.4/
 sessions/
+```
+
 
 ### Commands
 
@@ -98,5 +102,3 @@ sessions/
 7. Surface Atlas Registration
 8. Gyral Labeling
 9. -> stats
-
-[[FreeSurfer-Part2]]
