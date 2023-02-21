@@ -6,3 +6,5 @@ Date: ""
 Tags: "# freesurfer"
 ---
 
+### Group analysis - General Linear Model (GLM)
+
